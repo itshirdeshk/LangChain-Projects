@@ -16,3 +16,4 @@ arxiv
 wikipedia
 langchainhub
 langchain_groq
+sentence-transformers
